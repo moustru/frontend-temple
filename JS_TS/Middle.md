@@ -1,5 +1,7 @@
 # Middle
 
+#### [На главную](../JS_TS.md)
+
 ### Глубокое знание языка JavaScript, включая его внутреннюю работу и особенности:
 
 - [**Генераторы, итераторы**](https://learn.javascript.ru/generators-iterators)
@@ -9,7 +11,7 @@
 - [**Флаги и дескрипторы свойств**](https://learn.javascript.ru/property-descriptors)
 - [**CSS для JS-разработчика**](https://learn.javascript.ru/css-for-js)
 - **Event Loop:**
-    - ***Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome -*** [https://habr.com/ru/articles/461401/](https://habr.com/ru/articles/461401/)
+  - **_Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome -_** [https://habr.com/ru/articles/461401/](https://habr.com/ru/articles/461401/)
 - [**RequestAnimationFrame**](https://html5.by/blog/what-is-requestanimationframe/)
 - [**Регулярные выражения**](https://learn.javascript.ru/regular-expressions)
 - [**Неточные вычисления**](https://q-pax.ru/blog/erid/it/front/js/javascript_number_round/?ysclid=lsbxvexue3560035944)
@@ -40,22 +42,22 @@
 
 - [**Module systems**](https://habr.com/ru/companies/domclick/articles/532084/)
 - **Отслеживание новых возможностей языка ECMAScript:**
-    - ***ECMAScript 2016, 2017, 2018 -*** [https://habr.com/ru/company/ruvds/blog/353174/](https://habr.com/ru/company/ruvds/blog/353174/)
-    - ***ECMAScript 2019 -*** [https://habr.com/ru/post/439532/](https://habr.com/ru/post/439532/)
-    - ***Нововведения JavaScript ES2020 с простыми примерами -*** [https://habr.com/ru/company/plarium/blog/485362/](https://habr.com/ru/company/plarium/blog/485362/)
-    - ***Новые возможности ES2021 / ES12 -*** [https://habr.com/ru/post/533672/](https://habr.com/ru/post/533672/)
-    - ***4 важных нововведения в ES2022 -*** [https://habr.com/ru/articles/651161/](https://habr.com/ru/articles/651161/)
-    - ***ES2023 — что нового в JavaScript? -*** [https://habr.com/ru/articles/748232/](https://habr.com/ru/articles/748232/)
+  - **_ECMAScript 2016, 2017, 2018 -_** [https://habr.com/ru/company/ruvds/blog/353174/](https://habr.com/ru/company/ruvds/blog/353174/)
+  - **_ECMAScript 2019 -_** [https://habr.com/ru/post/439532/](https://habr.com/ru/post/439532/)
+  - **_Нововведения JavaScript ES2020 с простыми примерами -_** [https://habr.com/ru/company/plarium/blog/485362/](https://habr.com/ru/company/plarium/blog/485362/)
+  - **_Новые возможности ES2021 / ES12 -_** [https://habr.com/ru/post/533672/](https://habr.com/ru/post/533672/)
+  - **_4 важных нововведения в ES2022 -_** [https://habr.com/ru/articles/651161/](https://habr.com/ru/articles/651161/)
+  - **_ES2023 — что нового в JavaScript? -_** [https://habr.com/ru/articles/748232/](https://habr.com/ru/articles/748232/)
 
 ### Умение работать с инструментами статической типизации кода (Typescript):
 
 - **Явное указание типов с помощью type, interface:**
-    - ***Interfaces -*** [https://scriptdev.ru/guide/021/](https://scriptdev.ru/guide/021/)
-    - ***Type -*** [https://purpleschool.ru/knowledge-base/article/type](https://purpleschool.ru/knowledge-base/article/type)
-    - ***Интерфейсы и типы TypeScript: в чём разница -*** [https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963](https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963)
+  - **_Interfaces -_** [https://scriptdev.ru/guide/021/](https://scriptdev.ru/guide/021/)
+  - **_Type -_** [https://purpleschool.ru/knowledge-base/article/type](https://purpleschool.ru/knowledge-base/article/type)
+  - **_Интерфейсы и типы TypeScript: в чём разница -_** [https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963](https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963)
 - **Сужение, расширение типов:**
-    - [***Сужение***](https://habr.com/ru/companies/macloud/articles/560594/)
-    - [***Расширение***](https://bobbyhadz.com/blog/typescript-extend-type)
+  - [**_Сужение_**](https://habr.com/ru/companies/macloud/articles/560594/)
+  - [**_Расширение_**](https://bobbyhadz.com/blog/typescript-extend-type)
 - [**Объединение и пересечение типов**](https://scriptdev.ru/guide/016/)
 - [**Работа с d.ts**](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-d-ts.html)
 - [**Типизация функций, опциональные параметры**](https://it-dev-journal.ru/articles/funkcii-typescript?ysclid=lsbynuqhtj740911851)

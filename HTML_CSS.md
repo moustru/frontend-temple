@@ -10,6 +10,8 @@
 
 - **Для этого не нужна ARIA - [https://habr.com/ru/post/706674/](https://habr.com/ru/post/706674/)**
 - **Accessibility: для кого и как внедрять? - [https://habr.com/ru/company/oleg-bunin/blog/688902/](https://habr.com/ru/company/oleg-bunin/blog/688902/)**
+- **Что такое WCAG** - [https://doka.guide/a11y/wcag/?ysclid=m0f6z0moru484340557](https://doka.guide/a11y/wcag/?ysclid=m0f6z0moru484340557)
+- **ARIA APG** - [https://www.w3.org/WAI/ARIA/apg/](https://www.w3.org/WAI/ARIA/apg/)
 - **Доступность и frontend: стандарты разработки продуктов для незрячих и слабовидящих людей - [https://habr.com/ru/company/gnivc/blog/676536/](https://habr.com/ru/company/gnivc/blog/676536/)**
 - **HTML-трюки - [https://habr.com/ru/company/timeweb/blog/556214/](https://habr.com/ru/company/timeweb/blog/556214/)**
 - **HTMHell - адовая разметка (25 плохих примеров) - [https://habr.com/ru/post/555192/](https://habr.com/ru/post/555192/)**

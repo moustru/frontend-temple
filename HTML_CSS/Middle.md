@@ -1,5 +1,7 @@
 # Middle
 
+#### [На главную](../HTML_CSS.md)
+
 ### Глубокое знание HTML и CSS, включая их внутреннюю работу и возможности (специфичные тэги):
 
 - [**Список описания (dl, dt, dd)**](https://doka.guide/html/dl-dd-dt/?ysclid=lsa43plb94140254354)
@@ -7,43 +9,43 @@
 - [**Вариативные шрифты (absolem)**](https://vc.ru/design/263111-variativnye-shrifty-chto-eto-i-kak-ispolzovat?ysclid=lsa46fjto7629494594)
 - [**CSS-imports**](https://doka.guide/css/import/?ysclid=lsa47bdvhc689781506)
 - **Знание веб-компонентов (темплейты, скоупы, изоляция, Shadow DOM):**
-    - ***Веб-компоненты: обзор и использование в продакшне -*** [https://habr.com/ru/articles/346670/](https://habr.com/ru/articles/346670/)
-    - ***Веб-компоненты в 2023: нужно поговорить -*** [https://habr.com/ru/articles/761586/](https://habr.com/ru/articles/761586/)
-    - ***Почему я не использую веб-компоненты -*** [https://habr.com/ru/articles/457010/](https://habr.com/ru/articles/457010/)
-    - ***Опыт интеграции веб-компонентов на сайт Леруа Мерлен (Валентин Федяков) -*** [https://habr.com/ru/companies/leroy_merlin/articles/488648/](https://habr.com/ru/companies/leroy_merlin/articles/488648/)
-    - ***Знакомство с lit-element и веб-компонентами на его основе (Валентин Федяков) -*** [https://habr.com/ru/articles/445438/](https://habr.com/ru/articles/445438/)
+  - **_Веб-компоненты: обзор и использование в продакшне -_** [https://habr.com/ru/articles/346670/](https://habr.com/ru/articles/346670/)
+  - **_Веб-компоненты в 2023: нужно поговорить -_** [https://habr.com/ru/articles/761586/](https://habr.com/ru/articles/761586/)
+  - **_Почему я не использую веб-компоненты -_** [https://habr.com/ru/articles/457010/](https://habr.com/ru/articles/457010/)
+  - **_Опыт интеграции веб-компонентов на сайт Леруа Мерлен (Валентин Федяков) -_** [https://habr.com/ru/companies/leroy_merlin/articles/488648/](https://habr.com/ru/companies/leroy_merlin/articles/488648/)
+  - **_Знакомство с lit-element и веб-компонентами на его основе (Валентин Федяков) -_** [https://habr.com/ru/articles/445438/](https://habr.com/ru/articles/445438/)
 - **Продвинутое использование metadata (base, атрибут rel тега link, атрибуты async/defer тега скрипт, теги meta и атрибуты type):**
-    - ***<base> -*** [https://hcdev-ru.pages.dev/html/base/](https://hcdev-ru.pages.dev/html/base/)
-    - ***<link> -*** [https://doka.guide/html/link/?ysclid=lsa4bif2kx654685724](https://doka.guide/html/link/?ysclid=lsa4bif2kx654685724)
-    - ***async/defer -*** [https://doka.guide/html/defer-async/?ysclid=lsa4c081no185016926](https://doka.guide/html/defer-async/?ysclid=lsa4c081no185016926)
-    - ***Метаданные -*** [https://hcdev-ru.pages.dev/learn/html5/metadata/](https://hcdev-ru.pages.dev/learn/html5/metadata/)
+  - **_<base> -_** [https://hcdev-ru.pages.dev/html/base/](https://hcdev-ru.pages.dev/html/base/)
+  - **_<link> -_** [https://doka.guide/html/link/?ysclid=lsa4bif2kx654685724](https://doka.guide/html/link/?ysclid=lsa4bif2kx654685724)
+  - **_async/defer -_** [https://doka.guide/html/defer-async/?ysclid=lsa4c081no185016926](https://doka.guide/html/defer-async/?ysclid=lsa4c081no185016926)
+  - **_Метаданные -_** [https://hcdev-ru.pages.dev/learn/html5/metadata/](https://hcdev-ru.pages.dev/learn/html5/metadata/)
 - [**Продвинутые селекторы (префиксы data-атрибутов, :focus-within, :focus-visible, :with, etc)**](https://www.dev-notes.ru/articles/guide-supported-modern-css-pseudo-class-selectors/?ysclid=lsa4eqlp6o766671119)
 - [**Использование overflow**](https://doka.guide/css/overflow/?ysclid=lsa4fd8tez878753067)
 - [**Управление порядком элементов (order)**](https://developer.mozilla.org/ru/docs/Web/CSS/order)
 - [**Св-ва для работы с текстом (обрезание, выравнивание и переносы)**](https://itchief.ru/html-and-css/text-wrap)
 - [**Управление колоночным текстом (multi column)**](https://habr.com/ru/companies/microsoft/articles/143158/)
 - **Знание о embed, object тэгах:**
-    - ***<embed> -*** [https://developer.mozilla.org/ru/docs/Web/HTML/Element/embed](https://developer.mozilla.org/ru/docs/Web/HTML/Element/embed)
-    - ***<object> -*** [https://doka.guide/html/object/?ysclid=lsa4kych21596199025](https://doka.guide/html/object/?ysclid=lsa4kych21596199025)
+  - **_embed -_** [https://developer.mozilla.org/ru/docs/Web/HTML/Element/embed](https://developer.mozilla.org/ru/docs/Web/HTML/Element/embed)
+  - **_object -_** [https://doka.guide/html/object/?ysclid=lsa4kych21596199025](https://doka.guide/html/object/?ysclid=lsa4kych21596199025)
 - [**Знание об iframe**](https://habr.com/ru/articles/488516/)
 - [**Продвинутые цветовые пространства hsl**](https://habr.com/ru/articles/496768/)
 - **At-rules (media для ширины, определения темы, отсутствия анимаций; шрифты; supports и media для определения типа устройства):**
-    - ***A guide to CSS at-rules -*** [https://blog.logrocket.com/a-guide-to-css-at-rules/](https://blog.logrocket.com/a-guide-to-css-at-rules/)
-    - ***supports -*** [https://developer.mozilla.org/ru/docs/Web/CSS/@supports](https://developer.mozilla.org/ru/docs/Web/CSS/@supports)
+  - **_A guide to CSS at-rules -_** [https://blog.logrocket.com/a-guide-to-css-at-rules/](https://blog.logrocket.com/a-guide-to-css-at-rules/)
+  - **_supports -_** [https://developer.mozilla.org/ru/docs/Web/CSS/@supports](https://developer.mozilla.org/ru/docs/Web/CSS/@supports)
 
 ### Опыт создания сложных макетов и интерфейсов с использованием CSS-фреймворков и компонентных библиотек:
 
 - [**Использование нормализации и сброса стилей**](https://habr.com/ru/companies/htmlacademy/articles/342052/)
 - **Знание методологий БЭМ или ITCSS или Atomic:**
-    - ***БЭМ -*** [https://ru.bem.info/?ysclid=lsa4t6i1xd452438293](https://ru.bem.info/?ysclid=lsa4t6i1xd452438293)
-    - ***ITCSS -*** [https://ziscod.com/itcss-chto-eto-takoe/?ysclid=lsa50wiwo4129091424](https://ziscod.com/itcss-chto-eto-takoe/?ysclid=lsa50wiwo4129091424)
-    - ***Atomic -*** [https://habr.com/ru/articles/432586/](https://habr.com/ru/articles/432586/)
+  - **_БЭМ -_** [https://ru.bem.info/?ysclid=lsa4t6i1xd452438293](https://ru.bem.info/?ysclid=lsa4t6i1xd452438293)
+  - **_ITCSS -_** [https://ziscod.com/itcss-chto-eto-takoe/?ysclid=lsa50wiwo4129091424](https://ziscod.com/itcss-chto-eto-takoe/?ysclid=lsa50wiwo4129091424)
+  - **_Atomic -_** [https://habr.com/ru/articles/432586/](https://habr.com/ru/articles/432586/)
 - [**Изящная деградация и прогрессивное улучшение**](https://habr.com/ru/articles/157115/)
 - [**Вендорные префиксы**](https://doka.guide/css/vendor-prefixes/?ysclid=lsa58uqi5m986620420)
 - **Знание об CSS-фреймворках (bootstrap, foundation, tailwind):**
-    - ***Bootstrap -*** [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-    - ***Foundation -*** [https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
-    - ***TailwindCSS – очередной фреймворк или новый шаг эволюции? -*** [https://habr.com/ru/articles/508844/](https://habr.com/ru/articles/508844/)
+  - **_Bootstrap -_** [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+  - **_Foundation -_** [https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one](https://dev.to/get_pieces/foundation-the-best-framework-for-building-responsive-sites-one)
+  - **_TailwindCSS – очередной фреймворк или новый шаг эволюции? -_** [https://habr.com/ru/articles/508844/](https://habr.com/ru/articles/508844/)
 
 ### Знание и применение анимации, трансформации, транзиции и плавных переходов на CSS:
 
@@ -56,26 +58,26 @@
 
 - [**Основные концепции препроцессоров (миксины, плейсхолдеры, импорты, директивы, фолбеки, транспиляция)**](https://dan-it.gitlab.io/fe-book/advanced_frontend/lesson10_preprocessors/preprocessors.html)
 - **CSS-in-JS - runtime, build-time (styled-components, linaria), CSS Modules, понимание различий и концепций изоляции:**
-    - ***Сравнение производительности CSS и CSS-in-JS в реальном мире -*** [https://habr.com/ru/companies/ruvds/articles/556164/](https://habr.com/ru/companies/ruvds/articles/556164/)
-    - ***Скрытая цена CSS-in-JS-библиотек в React-приложениях -*** [https://habr.com/ru/companies/ruvds/articles/480358/](https://habr.com/ru/companies/ruvds/articles/480358/)
-    - ***CSS-In-JS For React: Linaria Vs. Styled Components -*** [https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/](https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/)
+  - **_Сравнение производительности CSS и CSS-in-JS в реальном мире -_** [https://habr.com/ru/companies/ruvds/articles/556164/](https://habr.com/ru/companies/ruvds/articles/556164/)
+  - **_Скрытая цена CSS-in-JS-библиотек в React-приложениях -_** [https://habr.com/ru/companies/ruvds/articles/480358/](https://habr.com/ru/companies/ruvds/articles/480358/)
+  - **_CSS-In-JS For React: Linaria Vs. Styled Components -_** [https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/](https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/)
 
 ### Умение оптимизировать производительность и загрузку страниц:
 
 - [**Critical rendering path**](https://developer.mozilla.org/ru/docs/Web/Performance/Critical_rendering_path)
 - [**Оптимизация загрузки медиа-элементов (srcset, sizes, media)**](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-- [**<script type=”module/nomodule”/>**](https://habr.com/ru/companies/raiffeisenbank/articles/473994/)
+- [script type=”module/nomodule”](https://habr.com/ru/companies/raiffeisenbank/articles/473994/)
 - [**атрибут rel (preload, prefetch, preconnect, prerender) и as**](https://habr.com/ru/articles/445264/)
 - [**Медленные / быстрые свойства CSS для анимации**](https://blog.hubspot.com/website/animation-timing-function)
 
 ### Знание видов пользователей с ограниченными возможностями и их потребностей (управление с клавиатуры, управление фокусом, скринридеры). Регулярное применение знаний и лучших практик при верстке для поддержания доступности:
 
 - [**Использование tabindex**](https://doka.guide/html/tabindex/?ysclid=lsa631lwgt559248018)
-- **Спецификация WAI-ARIA (базовые aria-* атрибуты):**
-    - ***Введение в WAI-ARIA -*** [https://doka.guide/a11y/aria-intro/?ysclid=lsa67svs59967367793](https://doka.guide/a11y/aria-intro/?ysclid=lsa67svs59967367793)
-    - ***Спецификация -*** [https://www.w3.org/TR/wai-aria-1.1/](https://www.w3.org/TR/wai-aria-1.1/)
-- **Знание способов создания базовых интерактивных элементов (нативный: button, a, input / кастомный: кастомные обработчики) - *ПРАКТИКА***
-- **Управление отображением контента (visibility: hidden, скрытие незначимого контента) - *ПРАКТИКА***
+- **Спецификация WAI-ARIA (базовые aria-\* атрибуты):**
+  - **_Введение в WAI-ARIA -_** [https://doka.guide/a11y/aria-intro/?ysclid=lsa67svs59967367793](https://doka.guide/a11y/aria-intro/?ysclid=lsa67svs59967367793)
+  - **_Спецификация -_** [https://www.w3.org/TR/wai-aria-1.1/](https://www.w3.org/TR/wai-aria-1.1/)
+- **Знание способов создания базовых интерактивных элементов (нативный: button, a, input / кастомный: кастомные обработчики) - _ПРАКТИКА_**
+- **Управление отображением контента (visibility: hidden, скрытие незначимого контента) - _ПРАКТИКА_**
 
 ### Умение тестировать и отлаживать веб-приложения в разных браузерах и на разных платформах:
 

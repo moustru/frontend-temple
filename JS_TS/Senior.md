@@ -1,5 +1,7 @@
 # Senior
 
+#### [На главную](../JS_TS.md)
+
 ### Экспертное владение языком JavaScript, включая его продвинутые возможности и способность решать сложные задачи:
 
 - [**Proxy, Reflect**](https://learn.javascript.ru/proxy)
@@ -23,13 +25,13 @@
 - [**Книга “Наиболее адекватный гайд по ФП от профессора Фрисби”**](https://www.notion.so/d8701497ada74c80a716cd359998fe64?pvs=21)
 - [**Функциональные объекты, функторы и монады в JS**](https://www.youtube.com/watch?v=3Z7f0Gi8pxw&ab_channel=TimurShemsedinov)
 - **Мышление в стиле Ramda:**
-    - [https://habr.com/ru/articles/348868/](https://habr.com/ru/articles/348868/)
-    - [https://habr.com/ru/articles/348976/](https://habr.com/ru/articles/348976/)
-    - [https://habr.com/ru/articles/349140/](https://habr.com/ru/articles/349140/)
-    - [https://habr.com/ru/articles/349674/](https://habr.com/ru/articles/349674/)
-    - [https://habr.com/ru/articles/358452/](https://habr.com/ru/articles/358452/)
-    - [https://habr.com/ru/articles/414337/](https://habr.com/ru/articles/414337/)
-    - [https://habr.com/ru/articles/415025/](https://habr.com/ru/articles/415025/)
-    - [https://habr.com/ru/articles/415035/](https://habr.com/ru/articles/415035/)
-    - [https://habr.com/ru/articles/415037/](https://habr.com/ru/articles/415037/)
+  - [https://habr.com/ru/articles/348868/](https://habr.com/ru/articles/348868/)
+  - [https://habr.com/ru/articles/348976/](https://habr.com/ru/articles/348976/)
+  - [https://habr.com/ru/articles/349140/](https://habr.com/ru/articles/349140/)
+  - [https://habr.com/ru/articles/349674/](https://habr.com/ru/articles/349674/)
+  - [https://habr.com/ru/articles/358452/](https://habr.com/ru/articles/358452/)
+  - [https://habr.com/ru/articles/414337/](https://habr.com/ru/articles/414337/)
+  - [https://habr.com/ru/articles/415025/](https://habr.com/ru/articles/415025/)
+  - [https://habr.com/ru/articles/415035/](https://habr.com/ru/articles/415035/)
+  - [https://habr.com/ru/articles/415037/](https://habr.com/ru/articles/415037/)
 - [**Описание всех монад в библиотеке Monet.js**](https://github.com/monet/monet.js/tree/master/docs)

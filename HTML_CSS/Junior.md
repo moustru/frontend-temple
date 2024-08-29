@@ -1,20 +1,22 @@
 # Junior
 
+#### [На главную](../HTML_CSS.md)
+
 ### Углубленное знание HTML и CSS, включая продвинутые концепции и возможности:
 
 - [**Работа с metadata (description, keywords)**](https://developer.mozilla.org/ru/docs/Web/HTML/Element/meta)
-- [**Работа с таблицами](https://doka.guide/html/tables/?ysclid=lsa1rvqmxk68191661):**
-    - ***ПРАКТИКА - Наверстать таблицу***
+- [\*\*Работа с таблицами](https://doka.guide/html/tables/?ysclid=lsa1rvqmxk68191661):\*\*
+  - **_ПРАКТИКА - Наверстать таблицу_**
 - **Полноценное использование форм (нативная отправка форм, различные типы input/button и продвинутое знание атрибутов тега, остальные теги для ввода - textarea, option, select …):**
-    - [*<form>](https://doka.guide/html/form/):*
-        - *ПРАКТИКА - Верстка формы*
-    - [*Работа с формами*](https://doka.guide/js/deal-with-forms/)
+  - [\*<form>](https://doka.guide/html/form/):\*
+    - _ПРАКТИКА - Верстка формы_
+  - [_Работа с формами_](https://doka.guide/js/deal-with-forms/)
 - [**Способы задания первоначального значения св-ва (inherit, unset, initial, auto)**](https://web-standards.ru/articles/inherit-initial-unset-revert/)
 - [**Создание контекста наложения (управление z-index, сочетание с позиционированием)**](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 - [**Кастомные переменные (var)**](https://doka.guide/css/custom-properties/?ysclid=lsa21itbmp536150714)
 - [**Функции (calc, min, max)**](https://yoksel.github.io/css-math/)
-- [**Умение создавать базовые анимации (keyframes, transforms, transition)](https://codelab.pro/osnovy-css-animaczii-transitions-keyframes-i-funkczii-sinhronizaczii/):**
-    - ***ПРАКТИКА - Создание CSS-анимации***
+- [\*\*Умение создавать базовые анимации (keyframes, transforms, transition)](https://codelab.pro/osnovy-css-animaczii-transitions-keyframes-i-funkczii-sinhronizaczii/):\*\*
+  - **_ПРАКТИКА - Создание CSS-анимации_**
 - [**Понимание способов изоляции стилей (локальная область видимости, неявная возможность переопределения)**](https://www.youtube.com/watch?v=xtC6l5-q4yU&ab_channel=DavidDobryakov)
 - [**Св-во currentcolor**](https://doka.guide/css/currentcolor/?ysclid=lsa295gpfa570666311)
 - [**Базовые знания про SVG (векторный формат, колоризация)**](https://ru.hexlet.io/blog/posts/kak-rabotat-s-formatom-svg-rukovodstvo-dlya-nachinayuschih-veb-razrabotchikov?ysclid=lsa2arfl4v414975816)
@@ -31,13 +33,13 @@
 ### Знание и использование продвинутых CSS-свойств и селекторов, а также базовое понимание CSS-препроцессоров (например, Sass):
 
 - **Вес селекторов:**
-    - [*Специфичность*](https://doka.guide/css/specificity/?ysclid=lsa2jynqxe667083503)
-    - [*CSS Selector Specificity*](https://polypane.app/css-specificity-calculator/#selector=)
+  - [_Специфичность_](https://doka.guide/css/specificity/?ysclid=lsa2jynqxe667083503)
+  - [_CSS Selector Specificity_](https://polypane.app/css-specificity-calculator/#selector=)
 - [**Продвинутые конструкты селекторов (относительные, scoped)**](https://www.dev-notes.ru/articles/css/at-scope/)
 - [**Продвинутые конструкты селекторов (псевдоэлементы, псевдоклассы для определения позиции элемента (nth-child, first/last-child, first-of-type))**](https://webformyself.com/css-psevdoklassy-stilizaciya-elementov-po-indeksam/?ysclid=lsa2mox5ac459777303)
 - [**Создание вложенности и прицепленности(&)**](https://www.dev-notes.ru/articles/css/css-nesting/?ysclid=lsa2oc0tcf661866722)
-- [**@layer](https://doka.guide/css/layer/?ysclid=ltlnhlc55x2552274):**
-    - ***Некоторые пояснения (разговоры с нейросетью) -*** [https://telegra.ph/Kaskadnye-sloi-v-CSS-razgovory-s-bezdushnoj-mashinoj-Claude-3-03-11](https://telegra.ph/Kaskadnye-sloi-v-CSS-razgovory-s-bezdushnoj-mashinoj-Claude-3-03-11)
+- [\*\*@layer](https://doka.guide/css/layer/?ysclid=ltlnhlc55x2552274):\*\*
+  - **_Некоторые пояснения (разговоры с нейросетью) -_** [https://telegra.ph/Kaskadnye-sloi-v-CSS-razgovory-s-bezdushnoj-mashinoj-Claude-3-03-11](https://telegra.ph/Kaskadnye-sloi-v-CSS-razgovory-s-bezdushnoj-mashinoj-Claude-3-03-11)
 - [**@supports**](https://doka.guide/css/supports/?ysclid=ltlniqjmmh377427465)
 - [**SASS Docs**](https://sass-scss.ru/?ysclid=ltlm6dw91a326927444)
 - [**Использование переменных препроцессора**](https://habr.com/ru/articles/332382/)
@@ -48,8 +50,8 @@
 - [**Элементы стилизации текста (i, b, strong, em, mark, etc)**](https://abuzov.com/html-tekst/)
 - [**Атрибуты подсказок (alt, title, label)**](https://reforge.ru/blog/stati-seo/vnutrennyaya-optimizavcia/alt-i-title-kartinok/?ysclid=lsa2uuw2he260165543)
 - **Как правильно верстать в 2022 году:**
-    - [***https://habr.com/ru/post/655009/***](https://habr.com/ru/post/655009/)
-    - [***https://habr.com/ru/articles/664060/***](https://habr.com/ru/articles/664060/)
+  - [**_https://habr.com/ru/post/655009/_**](https://habr.com/ru/post/655009/)
+  - [**_https://habr.com/ru/articles/664060/_**](https://habr.com/ru/articles/664060/)
 
 ### Умение создавать простые веб-страницы, которые корректно отображаются в основных браузерах (Chrome, Firefox, Safari, Edge):
 

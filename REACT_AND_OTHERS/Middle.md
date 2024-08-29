@@ -1,26 +1,28 @@
 # Middle
 
+#### [На главную](../REACT_AND_OTHERS.md)
+
 ### Углубленное знание выбранного фреймворка или библиотеки, включая продвинутые концепции и возможности:
 
 - [**Понимание как работает Virtual DOM**](https://habr.com/ru/articles/580336/)
 - [**Знания хуков (useState, useEffect, useRef)**](https://react.dev/reference/react/hooks)
 - **Базовое понимание мемоизации (useMemo, useCallback):**
-    - ***Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React -*** [https://habr.com/ru/articles/666522/](https://habr.com/ru/articles/666522/)
+  - **_Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React -_** [https://habr.com/ru/articles/666522/](https://habr.com/ru/articles/666522/)
 - [**Базовое понимание жизненного цикл компонентов: когда создается и уничтожается компонент.**](https://habr.com/ru/articles/358090/)
 - [**Различия между функциональными и классовыми компонентами.**](https://habr.com/ru/companies/ruvds/articles/444348/)
 - [**Сайд эффекты. (Получение данных через useEffect, работа с таймерами, подписка на события и прочие действия с DOM элементами)**](https://handsonreact.com/docs/side-effects-lifecyle)
 
 ### Опыт создания и настройки компонентов, маршрутизации и управления состоянием в рамках фреймворка или библиотеки:
 
-- **Подключение и использование сторонних библиотек - *ПРАКТИКА***
-- **Переиспользование компонентов - *ПРАКТИКА***
-- [**Управляемые и неуправляемые компоненты](https://habr.com/ru/articles/502034/).**
+- **Подключение и использование сторонних библиотек - _ПРАКТИКА_**
+- **Переиспользование компонентов - _ПРАКТИКА_**
+- [\*\*Управляемые и неуправляемые компоненты](https://habr.com/ru/articles/502034/).\*\*
 - [**Работа с роутингом в реакте (React Router)**](https://reactrouter.com/en/main/start/tutorial)
 
 ### Основное понимание структуры проекта и использование инструментов разработки, связанных с фреймворком или библиотекой:
 
-- **Использование одного из стейт менеджеров: Redux, RTK, MobX, React Saga, React Query - *ПРАКТИКА***
-- [**Написание базовых unit-тестов на компоненты](https://dev.to/quokkalabs/how-to-write-unit-tests-in-react-a-detailed-guide-3dlj) + *ПРАКТИКА***
+- **Использование одного из стейт менеджеров: Redux, RTK, MobX, React Saga, React Query - _ПРАКТИКА_**
+- [\*\*Написание базовых unit-тестов на компоненты](https://dev.to/quokkalabs/how-to-write-unit-tests-in-react-a-detailed-guide-3dlj) + \*ПРАКТИКА\*\*\*
 
 ### Базовое знание браузерного API и представление о работе NodeJS:
 
@@ -43,31 +45,31 @@
 
 - **Понимание подходов к написанию компонентов: [Higher-Order Component](https://habr.com/ru/companies/ruvds/articles/428572/), [функциональные компоненты](https://habr.com/ru/companies/ruvds/articles/444348/), [контейнеры](https://wcademy.ru/react-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D1%8B/) и [чистые/презентационные компоненты](https://react.dev/reference/react/PureComponent)**
 - **Опыт написания активно реиспользуемого кода (библиотеки, компоненты, кастомные хуки)**
-    - ***Разработка и поддержка ui-kit решений (шаренных либ) - ПРАКТИКА***
-    - ***Создание компонентов (Аккордеон, слайдер, тултип) - ПРАКТИКА***
-    - ***Система модальных окон - ПРАКТИКА***
+  - **_Разработка и поддержка ui-kit решений (шаренных либ) - ПРАКТИКА_**
+  - **_Создание компонентов (Аккордеон, слайдер, тултип) - ПРАКТИКА_**
+  - **_Система модальных окон - ПРАКТИКА_**
 - [**Понимание сути SSR и особенности его реализации в React.**](https://habr.com/ru/articles/527310/)
 - [**Понимание и практика написания легкочитаемого и самодокументированного кода (декомпонизиция за мелкие компоненты, функции, классы, самодокументирование кода через правильные именования).**](https://habr.com/ru/articles/458264/)
 - **Опыт использования TS в крупных проектах:**
-    - ***12 советов по внедрению TypeScript в React-приложениях -*** [https://habr.com/ru/companies/tinkoff/articles/505488/](https://habr.com/ru/companies/tinkoff/articles/505488/)
+  - **_12 советов по внедрению TypeScript в React-приложениях -_** [https://habr.com/ru/companies/tinkoff/articles/505488/](https://habr.com/ru/companies/tinkoff/articles/505488/)
 
 ### Умение работать с инструментами и библиотеками, связанными с выбранным фреймворком или библиотекой:
 
-- **Глубокое знание и опыт применение одного из state manager-ов: [Redux (RTK)](https://redux-toolkit.js.org/tutorials/rtk-query), [MobX](https://mobx.js.org/README.html), [React Query](https://tanstack.com/query/v3/docs/framework/react/overview), [Effector](https://effector.dev/ru/introduction/installation/). понимание, какое состояние стоит хранить в стейт менеджере - *ПРАКТИКА***
-- **Глубокое понимание и продвинутая работа с роутингом в реакте: [React Router (browser router, memmory router)](https://reactrouter.com/en/main) - *ПРАКТИКА***
-- **Опыт работы с одной из библиотек компонентов: fronton, [mui](https://mui.com/), [antd](https://ant.design/), [semantic ui](https://semantic-ui.com/), [mozaic](https://docs.mosaic.js.org/tutorials/intro-to-mosaic-+-react) - *ПРАКТИКА***
+- **Глубокое знание и опыт применение одного из state manager-ов: [Redux (RTK)](https://redux-toolkit.js.org/tutorials/rtk-query), [MobX](https://mobx.js.org/README.html), [React Query](https://tanstack.com/query/v3/docs/framework/react/overview), [Effector](https://effector.dev/ru/introduction/installation/). понимание, какое состояние стоит хранить в стейт менеджере - _ПРАКТИКА_**
+- **Глубокое понимание и продвинутая работа с роутингом в реакте: [React Router (browser router, memmory router)](https://reactrouter.com/en/main) - _ПРАКТИКА_**
+- **Опыт работы с одной из библиотек компонентов: fronton, [mui](https://mui.com/), [antd](https://ant.design/), [semantic ui](https://semantic-ui.com/), [mozaic](https://docs.mosaic.js.org/tutorials/intro-to-mosaic-+-react) - _ПРАКТИКА_**
 
 ### Глубокое понимание браузерного API:
 
 - [**Понимание этапов рендеринга страницы (Critical Rendering Path).**](https://habr.com/ru/articles/320430/)
 - **Знание о наборе API, которое предоставляет браузер и опыт использования (https://developer.mozilla.org/en-US/docs/Web/API):**
-    - [***DOM API***](https://developer.mozilla.org/ru/docs/Web/API/Document_Object_Model/Introduction)
-    - [***History API***](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
-    - [***Web Storage API***](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
-    - [***Web Workers***](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
-    - [***Canvas API***](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-    - [***HTML Drag and Drop API***](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-    - [***Geolocation API***](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+  - [**_DOM API_**](https://developer.mozilla.org/ru/docs/Web/API/Document_Object_Model/Introduction)
+  - [**_History API_**](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+  - [**_Web Storage API_**](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+  - [**_Web Workers_**](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+  - [**_Canvas API_**](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - [**_HTML Drag and Drop API_**](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+  - [**_Geolocation API_**](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
 ### Базовое понимание клиент серверного взаимодействия и опыт работы с NodeJS:
 
