@@ -1,5 +1,7 @@
 # React и построение веб-приложений
 
+#### [На главную](README.md)
+
 ## [Junior](REACT_AND_OTHERS/Junior.md)
 
 ## [Middle](REACT_AND_OTHERS/Middle.md)

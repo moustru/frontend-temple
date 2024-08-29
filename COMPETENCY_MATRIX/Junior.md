@@ -1,6 +1,6 @@
 # Junior
 
-#### [На главную](../COMPETENCY_MATRIX.md)
+#### [Вернуться](../COMPETENCY_MATRIX.md)
 
 ### Осведомленность в профессии
 

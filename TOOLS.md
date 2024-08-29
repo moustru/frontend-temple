@@ -1,5 +1,7 @@
 # Инструменты и сборка
 
+#### [На главную](README.md)
+
 ## [Junior](TOOLS/Junior.md)
 
 ## [Middle](TOOLS/Middle.md)
@@ -21,7 +23,7 @@
 - Тонкости благополучного git-merge - [https://habr.com/ru/articles/195674/](https://habr.com/ru/articles/195674/)
 - Trunk Based Development — кто такой и зачем нужен - [https://habr.com/ru/companies/avito/articles/680522/](https://habr.com/ru/companies/avito/articles/680522/)
 - Работа с тегами Git - [https://git-scm.com/book/ru/v2/Основы-Git-Работа-с-тегами](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8)
-- Docker за 3 часа - [https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk](https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk)
+- Docker за 3 часа - [https://www.youtube.com/watch?v=\_uZQtRyF6Eg&ab_channel=BogdanStashchuk](https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk)
 - The Front-End Developer's Guide to the Terminal - [https://www.joshwcomeau.com/javascript/terminal-for-js-devs/](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 
 ### Книги, спецификации, факультатив

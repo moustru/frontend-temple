@@ -1,5 +1,7 @@
 # Теория программирования
 
+#### [На главную](README.md)
+
 ## [Junior](CS/Junior.md)
 
 ## [Middle](CS/Middle.md)
