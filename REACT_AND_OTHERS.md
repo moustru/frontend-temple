@@ -18,6 +18,8 @@
 - **React Server Components — что это? -** [https://habr.com/ru/articles/535248/](https://habr.com/ru/articles/535248/)
 - **Введение в Astro -** [https://habr.com/ru/articles/746380/](https://habr.com/ru/articles/746380/)
 - **Что такое генераторы статических сайтов и почему Astro — лучший фреймворк для разработки лендингов -** [https://habr.com/ru/articles/779428/](https://habr.com/ru/articles/779428/)
+- **React 19 RC -** [https://react.dev/blog/2024/04/25/react-19](https://react.dev/blog/2024/04/25/react-19)
+- **Новые клиентские хуки React 19 -** [https://habr.com/ru/companies/timeweb/articles/793660/](https://habr.com/ru/companies/timeweb/articles/793660/)
 
 ### Книги, спецификации, факультатив
 
