@@ -25,6 +25,7 @@
 - Работа с тегами Git - [https://git-scm.com/book/ru/v2/Основы-Git-Работа-с-тегами](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8)
 - Docker за 3 часа - [https://www.youtube.com/watch?v=\_uZQtRyF6Eg&ab_channel=BogdanStashchuk](https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk)
 - The Front-End Developer's Guide to the Terminal - [https://www.joshwcomeau.com/javascript/terminal-for-js-devs/](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
+- В чём разница Smoke, Sanity, Regression, Re-test и как их различать? - [https://habr.com/ru/articles/358142/](https://habr.com/ru/articles/358142/)
 
 ### Книги, спецификации, факультатив
 

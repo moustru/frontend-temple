@@ -14,8 +14,8 @@
 
 ### [Безопасность](SECURITY.md)
 
-### [Матрица компетентности](MATURITY_MATRIX.md)
+### [Матрица компетентности](COMPETENCY_MATRIX.md)
 
-### [Матрица зрелости команды](COMPETENCY_MATRIX.md)
+### [Матрица зрелости команды](MATURITY_MATRIX.md)
 
 ### [Глобальная куча](HEAP.md)

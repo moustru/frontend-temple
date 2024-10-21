@@ -20,6 +20,7 @@
 - Безголовая (Headless) архитектура построения eCommerce - [https://infostart.ru/1c/articles/1547428/](https://infostart.ru/1c/articles/1547428/)
 - Serverless-архитектура сегодня: как бессерверные решения меняют разработку - [https://habr.com/ru/articles/551298/](https://habr.com/ru/articles/551298/)
 - Что такое анти-паттерны? - [https://habr.com/ru/articles/59005/](https://habr.com/ru/articles/59005/)
+- Сложность алгоритмов. Разбор Big O - [https://habr.com/ru/articles/782608/](https://habr.com/ru/articles/782608/)
 
 ### Книги, спецификации, факультатив
 
