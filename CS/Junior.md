@@ -18,6 +18,7 @@
 - **алгоритмы поиска (линейный поиск, бинарный поиск):**
   - **_Линейный поиск -_** [https://www.geeksforgeeks.org/linear-search/](https://www.geeksforgeeks.org/linear-search/)
   - **_Бинарный поиск -_** [https://habr.com/ru/articles/783848/](https://habr.com/ru/articles/783848/)
+- Сложность алгоритмов. Разбор Big O - [https://habr.com/ru/articles/782608/](https://habr.com/ru/articles/782608/)
 
 ### Поверхностные знания о существующих паттернах проектирования приложений:
 
@@ -25,3 +26,5 @@
   - **_ООП в картинках -_** [https://habr.com/ru/articles/463125/](https://habr.com/ru/articles/463125/)
 - [**Функциональное программирование (объявление/вызов функций, анонимные/стрелочные функции, чистые функции (ссылочная прозрачность), понятие функций высшего порядка, замыкание)**](https://doka.guide/tools/fp/?ysclid=lsairp9jc7598872045)
 - [**GoF-паттерны**](https://habr.com/ru/companies/vk/articles/325492/)
+- [**KISS, DRY, YAGNI**](https://habr.com/ru/post/144611/)
+- [**SOLID**](https://solidbook.vercel.app/)

@@ -25,8 +25,6 @@
 
 ### Знание методологий проектирования и разработки приложения:
 
-- [**KISS, DRY, YAGNI**](https://habr.com/ru/post/144611/)
-- [**SOLID**](https://solidbook.vercel.app/)
 - **Функциональное реактивное программирование:**
   - **_Основы функционального реактивного программирования -_** [https://www.youtube.com/watch?v=xPHT91zzAQs&ab_channel=VideoArchiveofDataArt](https://www.youtube.com/watch?v=xPHT91zzAQs&ab_channel=VideoArchiveofDataArt)
 - [**Парадигмы программирования**](https://doka.guide/tools/programming-paradigms/?ysclid=lsalbq5tzm349795473)

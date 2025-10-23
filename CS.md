@@ -10,18 +10,6 @@
 
 ### Куча
 
-- Альтернативный взгляд на MVC, MVP и MVVM - [https://clck.ru/akBUE](https://clck.ru/akBUE)
-- Архитектура фронтенда и какой она должна быть - [https://habr.com/ru/post/667214/](https://habr.com/ru/post/667214/)
-- Шаблоны проектирования с человеческим лицом - [https://habr.com/ru/company/vk/blog/325492/](https://habr.com/ru/company/vk/blog/325492/)
-- Гексагональная архитектура и Domain Driven Design на примере Front-end приложения - [https://habr.com/ru/post/654629/](https://habr.com/ru/post/654629/)
-- Использование паттерна BFF для создания общих типов в бэкенде и фронтенде - [https://habr.com/ru/post/571004/](https://habr.com/ru/post/571004/)
-- DDD на практике - [https://habr.com/ru/post/334126/](https://habr.com/ru/post/334126/)
-- Где я и где конечный автомат? Доклад Вадима Пацева о математике во фронтенде - [https://habr.com/ru/companies/yandex/articles/550100/](https://habr.com/ru/companies/yandex/articles/550100/)
-- Безголовая (Headless) архитектура построения eCommerce - [https://infostart.ru/1c/articles/1547428/](https://infostart.ru/1c/articles/1547428/)
-- Serverless-архитектура сегодня: как бессерверные решения меняют разработку - [https://habr.com/ru/articles/551298/](https://habr.com/ru/articles/551298/)
-- Что такое анти-паттерны? - [https://habr.com/ru/articles/59005/](https://habr.com/ru/articles/59005/)
-- Сложность алгоритмов. Разбор Big O - [https://habr.com/ru/articles/782608/](https://habr.com/ru/articles/782608/)
-
 ### Книги, спецификации, факультатив
 
 Алгоритмика - [https://ru.algorithmica.org/](https://ru.algorithmica.org/)
