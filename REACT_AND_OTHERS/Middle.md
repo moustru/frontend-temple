@@ -7,7 +7,7 @@
 - [**Понимание как работает Virtual DOM**](https://habr.com/ru/articles/580336/)
 - [**Знания хуков (useState, useEffect, useRef)**](https://react.dev/reference/react/hooks)
 - **Базовое понимание мемоизации (useMemo, useCallback):**
-  - **_Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React -_** [https://habr.com/ru/articles/666522/](https://habr.com/ru/articles/666522/)
+  - **_Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React -_** https://habr.com/ru/articles/666522/
 - [**Базовое понимание жизненного цикл компонентов: когда создается и уничтожается компонент.**](https://habr.com/ru/articles/358090/)
 - [**Различия между функциональными и классовыми компонентами.**](https://habr.com/ru/companies/ruvds/articles/444348/)
 - [**Сайд эффекты. (Получение данных через useEffect, работа с таймерами, подписка на события и прочие действия с DOM элементами)**](https://handsonreact.com/docs/side-effects-lifecyle)
@@ -30,7 +30,7 @@
 - [**Базовое представление о nodejs, его назначении, умение запускать js скрипты nodejs**](https://nodejsdev.ru/guides/webdraftt/start/)
 - [**setTimeout, setInterval**](https://www.notion.so/HTML5-b9f199b639c049dfb21d4a626c60bce1?pvs=21)
 - [**Блокирующие синхронные операции alert, prompt**](https://learn.javascript.ru/alert-prompt-confirm)
-- [**Работа с fetch или axios или XMLHTTPRequest**](https://nuancesprog.ru/p/7666/?ysclid=lsc0nycavj889805333)
+- [**Работа с fetch или axios или XMLHTTPRequest**](https://nuancesprog.ru/p/7666/)
 
 ### Глубокое знание выбранного фреймворка или библиотеки, включая его внутреннюю работу и архитектуру:
 
@@ -51,7 +51,7 @@
 - [**Понимание сути SSR и особенности его реализации в React.**](https://habr.com/ru/articles/527310/)
 - [**Понимание и практика написания легкочитаемого и самодокументированного кода (декомпонизиция за мелкие компоненты, функции, классы, самодокументирование кода через правильные именования).**](https://habr.com/ru/articles/458264/)
 - **Опыт использования TS в крупных проектах:**
-  - **_12 советов по внедрению TypeScript в React-приложениях -_** [https://habr.com/ru/companies/tinkoff/articles/505488/](https://habr.com/ru/companies/tinkoff/articles/505488/)
+  - **_12 советов по внедрению TypeScript в React-приложениях -_** https://habr.com/ru/companies/tinkoff/articles/505488/
 
 ### Умение работать с инструментами и библиотеками, связанными с выбранным фреймворком или библиотекой:
 
@@ -73,7 +73,7 @@
 
 ### Базовое понимание клиент серверного взаимодействия и опыт работы с NodeJS:
 
-- **Понимание принципов работы nodejs и его отличия по сравнению с браузерами: [File System API](https://nodejsdev.ru/api/fs/?ysclid=lsk2cw8zuw184725004), [event loop](https://nodejsdev.ru/guides/webdraftt/event-loop/?ysclid=lsk2drb4g3293740179), [глобальный объект](https://nodejsdev.ru/api/globals/?ysclid=lsk2ee9dlh803434847)**
+- **Понимание принципов работы nodejs и его отличия по сравнению с браузерами: [File System API](https://nodejsdev.ru/api/fs), [event loop](https://nodejsdev.ru/guides/webdraftt/event-loop), [глобальный объект](https://nodejsdev.ru/api/globals)**
 - **Опыт написания простых скриптов на nodejs с использованием File System API и выполнением сетевых запросов - ПРАКТИКА**
 - [**Понимание правил построения RESTFull API.**](https://habr.com/ru/articles/447322/)
 - [**Понимание работы WebSockets и области применения.**](https://blog.skillfactory.ru/glossary/websocket/)

@@ -11,26 +11,26 @@
 - [**Флаги и дескрипторы свойств**](https://learn.javascript.ru/property-descriptors)
 - [**CSS для JS-разработчика**](https://learn.javascript.ru/css-for-js)
 - **Event Loop:**
-  - **_Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome -_** [https://habr.com/ru/articles/461401/](https://habr.com/ru/articles/461401/)
+  - **_Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome -_** https://habr.com/ru/articles/461401/
 - [**RequestAnimationFrame**](https://html5.by/blog/what-is-requestanimationframe/)
 - [**Регулярные выражения**](https://learn.javascript.ru/regular-expressions)
-- [**Неточные вычисления**](https://q-pax.ru/blog/erid/it/front/js/javascript_number_round/?ysclid=lsbxvexue3560035944)
+- [**Неточные вычисления**](https://q-pax.ru/blog/erid/it/front/js/javascript_number_round)
 - [**Работа с коллекциями Map, Set**](https://learn.javascript.ru/map-set)
 - [**BigInt**](https://learn.javascript.ru/bigint)
 - [**Генерация пользовательских событий**](https://learn.javascript.ru/dispatch-events)
 - [**Интернационализация в JS**](https://learn.javascript.ru/intl)
 - [**Фреймы и окна**](https://learn.javascript.ru/frames-and-windows)
 - [**Сетевые запросы**](https://learn.javascript.ru/network)
-- [**Работа с исключениями try…catch**](https://doka.guide/js/try-catch/?ysclid=lsbxx337na747285611)
-- [**Debounce, throttling**](https://webdevkin.ru/posts/frontend/kak-ispolzovat-throttle-i-debounce?ysclid=lsbxyllasb894312579)
+- [**Работа с исключениями try…catch**](https://doka.guide/js/try-catch)
+- [**Debounce, throttling**](https://webdevkin.ru/posts/frontend/kak-ispolzovat-throttle-i-debounce)
 - [**Intersection Observer API**](https://habr.com/ru/post/494670/)
 - [**Top-level await**](https://habr.com/ru/articles/524068/)
 
 ### Опыт работы с ООП в JavaScript:
 
-- [**Методы работы с свойствами класса (Set, get)**](https://metanit.com/web/javascript/4.14.php?ysclid=lsby24ihmh10357640)
-- [**Модификаторы доступа**](https://learn.javascript.ru/private-protected-properties-methods?ysclid=lsby2uw39f800261595)
-- [**Статические классы и методы**](https://metanit.com/web/javascript/4.17.php?ysclid=lsby4dwly9872306982)
+- [**Методы работы с свойствами класса (Set, get)**](https://metanit.com/web/javascript/4.14.php)
+- [**Модификаторы доступа**](https://learn.javascript.ru/private-protected-properties-methods)
+- [**Статические классы и методы**](https://metanit.com/web/javascript/4.17.php)
 - [**Абстрактные классы**](https://www.delftstack.com/howto/javascript/javascript-abstract-class/)
 
 ### Опыт работы с ФП в JavaScript:
@@ -42,25 +42,25 @@
 
 - [**Module systems**](https://habr.com/ru/companies/domclick/articles/532084/)
 - **Отслеживание новых возможностей языка ECMAScript:**
-  - **_ECMAScript 2016, 2017, 2018 -_** [https://habr.com/ru/company/ruvds/blog/353174/](https://habr.com/ru/company/ruvds/blog/353174/)
-  - **_ECMAScript 2019 -_** [https://habr.com/ru/post/439532/](https://habr.com/ru/post/439532/)
-  - **_Нововведения JavaScript ES2020 с простыми примерами -_** [https://habr.com/ru/company/plarium/blog/485362/](https://habr.com/ru/company/plarium/blog/485362/)
-  - **_Новые возможности ES2021 / ES12 -_** [https://habr.com/ru/post/533672/](https://habr.com/ru/post/533672/)
-  - **_4 важных нововведения в ES2022 -_** [https://habr.com/ru/articles/651161/](https://habr.com/ru/articles/651161/)
-  - **_ES2023 — что нового в JavaScript? -_** [https://habr.com/ru/articles/748232/](https://habr.com/ru/articles/748232/)
+  - **_ECMAScript 2016, 2017, 2018 -_** https://habr.com/ru/company/ruvds/blog/353174/
+  - **_ECMAScript 2019 -_** https://habr.com/ru/post/439532/
+  - **_Нововведения JavaScript ES2020 с простыми примерами -_** https://habr.com/ru/company/plarium/blog/485362/
+  - **_Новые возможности ES2021 / ES12 -_** https://habr.com/ru/post/533672/
+  - **_4 важных нововведения в ES2022 -_** https://habr.com/ru/articles/651161/
+  - **_ES2023 — что нового в JavaScript? -_** https://habr.com/ru/articles/748232/
 
 ### Умение работать с инструментами статической типизации кода (Typescript):
 
 - **Явное указание типов с помощью type, interface:**
-  - **_Interfaces -_** [https://scriptdev.ru/guide/021/](https://scriptdev.ru/guide/021/)
-  - **_Type -_** [https://purpleschool.ru/knowledge-base/article/type](https://purpleschool.ru/knowledge-base/article/type)
-  - **_Интерфейсы и типы TypeScript: в чём разница -_** [https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963](https://htmlacademy.ru/blog/js/types-vs-interfaces?ysclid=lsbygbegzo276643963)
+  - **_Interfaces -_** https://scriptdev.ru/guide/021/
+  - **_Type -_** https://purpleschool.ru/knowledge-base/article/type
+  - **_Интерфейсы и типы TypeScript: в чём разница -_** https://htmlacademy.ru/blog/js/types-vs-interfaces
 - **Сужение, расширение типов:**
   - [**_Сужение_**](https://habr.com/ru/companies/macloud/articles/560594/)
   - [**_Расширение_**](https://bobbyhadz.com/blog/typescript-extend-type)
 - [**Объединение и пересечение типов**](https://scriptdev.ru/guide/016/)
 - [**Работа с d.ts**](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-d-ts.html)
-- [**Типизация функций, опциональные параметры**](https://it-dev-journal.ru/articles/funkcii-typescript?ysclid=lsbynuqhtj740911851)
+- [**Типизация функций, опциональные параметры**](https://it-dev-journal.ru/articles/funkcii-typescript)
 - [**Типизация классов, модификаторы доступа**](https://habr.com/ru/companies/macloud/articles/563408/)
 - [**Динамические ключи**](https://scriptdev.ru/guide/022/)
 - [**Utility types**](https://www.typescriptlang.org/docs/handbook/utility-types.html)

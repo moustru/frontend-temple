@@ -12,7 +12,7 @@
 
 ### Книги, спецификации, факультатив
 
-Алгоритмика - [https://ru.algorithmica.org/](https://ru.algorithmica.org/)
+Алгоритмика - https://ru.algorithmica.org/
 
 [Роберт Мартин - Чистая архитектура, 2018](https://disk.yandex.ru/i/CFMnEiNkO9aNMQ)
 

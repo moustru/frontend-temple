@@ -18,5 +18,5 @@
 ### Минимальное знание браузерного API:
 
 - [**Базовое понимание объектной модели window (DOM)**](https://itchief.ru/javascript/dom)
-- [**Создание элемента, задание атрибутов, стилей, добавление элементов в DOM.**](https://tproger.ru/translations/dom-javascript?ysclid=lsc03pon5a705384053)
-- [**Поиск HTML элемента.**](https://learn.javascript.ru/searching-elements-dom?ysclid=lsc048pwwk818460378)
+- [**Создание элемента, задание атрибутов, стилей, добавление элементов в DOM.**](https://tproger.ru/translations/dom-javascript)
+- [**Поиск HTML элемента.**](https://learn.javascript.ru/searching-elements-dom)

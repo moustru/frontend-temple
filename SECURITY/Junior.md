@@ -4,16 +4,16 @@
 
 ### Знание основных уязвимостей:
 
-- [**XSS (межсайтовый скриптинг)**](https://wiki.rookee.ru/cross-site-scripting/?ysclid=lst9885q0493477580)
+- [**XSS (межсайтовый скриптинг)**](https://wiki.rookee.ru/cross-site-scripting)
 
 ### Умение применять базовые методы защиты от уязвимостей:
 
 - **Экранирование “небезопасных” данных таких как: пользовательский ввод строк, query strings и dynamic params в HTTP запросах, использование библиотек для облегчения работы с экранированием данных:**
-  - **_Защита от XSS атак -_** [https://imvk.net/bezopasnost/kurs-po-veb-khakingu/zashchita-ot-xss-atak?ysclid=lst99kel34704173546](https://imvk.net/bezopasnost/kurs-po-veb-khakingu/zashchita-ot-xss-atak?ysclid=lst99kel34704173546)
-  - **_Не пытайтесь обезопасить ввод. Экранируйте вывод -_** [https://habr.com/ru/companies/otus/articles/712830/](https://habr.com/ru/companies/otus/articles/712830/)
+  - **_Защита от XSS атак -_** https://imvk.net/bezopasnost/kurs-po-veb-khakingu/zashchita-ot-xss-atak
+  - **_Не пытайтесь обезопасить ввод. Экранируйте вывод -_** https://habr.com/ru/companies/otus/articles/712830/
 - **Знание “подкапотных” способов реализации защиты в используемом фреймворке/библиотеке (пример: почему в React небезопасно использовать dangerouslySetInnerHTML):**
-  - **_Три типовых ошибки в сфере безопасности, о которых должен знать каждый React-разработчик -_** [https://habr.com/ru/companies/ruvds/articles/467255/](https://habr.com/ru/companies/ruvds/articles/467255/)
-  - **_Опасность использования v-html в приложениях Vue -_** [https://webdevblog.ru/opasnost-ispolzovaniya-v-html-v-prilozheniyah-vue/?ysclid=lst9cfec6s24403691](https://webdevblog.ru/opasnost-ispolzovaniya-v-html-v-prilozheniyah-vue/?ysclid=lst9cfec6s24403691)
+  - **_Три типовых ошибки в сфере безопасности, о которых должен знать каждый React-разработчик -_** https://habr.com/ru/companies/ruvds/articles/467255/
+  - **_Опасность использования v-html в приложениях Vue -_** https://webdevblog.ru/opasnost-ispolzovaniya-v-html-v-prilozheniyah-vue/
 
 ### Знание базовых методов аутентификации, авторизации и управления сессиями:
 
