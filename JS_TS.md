@@ -15,9 +15,7 @@
 - Справочник современных концепций JS - Часть 1 - https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56
 - Справочник современных концепций JS - Часть 2 - https://clck.ru/GeEej
 - JavaScript — шаблоны наследования - https://habr.com/ru/post/263967/
-- Как работает JS - https://habr.com/ru/company/ruvds/blog/337042/
 - JavaScript prototype pollution: практика поиска и эксплуатации - https://habr.com/ru/company/huawei/blog/547178/
-- Реактивность в JavaScript: простой и понятный пример - https://habr.com/ru/company/ruvds/blog/418633/
 - Ответственный подход к JavaScript-разработке, часть 1 - https://habr.com/ru/company/ruvds/blog/447576/
 - Ответственный подход к JavaScript-разработке, часть 2 - https://habr.com/ru/company/ruvds/blog/460797/
 - Обращение к Javascript-сообществу: перестаньте писать квадраты - https://habr.com/ru/post/590663/

@@ -11,6 +11,8 @@
 
 ### Базовое понимание кэширования и его применения для улучшения производительности:
 
+- **_[По полочкам] Кэширование -_** https://habr.com/ru/articles/734660/
+- **_HTTP-кеширование -_** https://developer.mozilla.org/ru/docs/Web/HTTP/Caching
 - [**Что такое кеширование.**](https://www.notion.so/Level-2-c674940fd2b54755bcbaefdf67f9e79a?pvs=21)
 - **Инвалидация кеша, время жизни кеша, ключ кеширования:**
   - **_Когда и как следует инвалидировать кэш -_** https://habr.com/ru/companies/piter/articles/690764/

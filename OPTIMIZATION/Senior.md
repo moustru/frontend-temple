@@ -27,7 +27,7 @@
     - https://habr.com/ru/companies/bastion/articles/706322/
     - https://habr.com/ru/companies/bastion/articles/716640/
   - **_Спекулятивная оптимизация в V8 -_** https://russianblogs.com/article/4959965034/
-  - **_Как V8 оптимизирует функции в JavaScript? -_** https://skine.ru/articles/139598/?ysclid=lst8kjs75h66537617
+  - **_Как V8 оптимизирует функции в JavaScript? -_** https://skine.ru/articles/139598
 
 ### Знание и оптимизация запросов к серверу и их кэширование:
 

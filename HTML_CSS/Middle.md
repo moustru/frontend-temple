@@ -8,12 +8,6 @@
 - [**Использование source-тегов в медиа-элементах (video, audio)**](https://doka.guide/html/source)
 - [**Вариативные шрифты (absolem)**](https://vc.ru/design/263111-variativnye-shrifty-chto-eto-i-kak-ispolzovat)
 - [**CSS-imports**](https://doka.guide/css/import)
-- **Знание веб-компонентов (темплейты, скоупы, изоляция, Shadow DOM):**
-  - **_Веб-компоненты: обзор и использование в продакшне -_** https://habr.com/ru/articles/346670/
-  - **_Веб-компоненты в 2023: нужно поговорить -_** https://habr.com/ru/articles/761586/
-  - **_Почему я не использую веб-компоненты -_** https://habr.com/ru/articles/457010/
-  - **_Опыт интеграции веб-компонентов на сайт Леруа Мерлен (Валентин Федяков) -_** https://habr.com/ru/companies/leroy_merlin/articles/488648/
-  - **_Знакомство с lit-element и веб-компонентами на его основе (Валентин Федяков) -_** https://habr.com/ru/articles/445438/
 - **Продвинутое использование metadata (base, атрибут rel тега link, атрибуты async/defer тега скрипт, теги meta и атрибуты type):**
   - **_<base> -_** https://hcdev-ru.pages.dev/html/base
   - **_<link> -_** https://doka.guide/html/link
@@ -58,9 +52,7 @@
 
 - [**Основные концепции препроцессоров (миксины, плейсхолдеры, импорты, директивы, фолбеки, транспиляция)**](https://dan-it.gitlab.io/fe-book/advanced_frontend/lesson10_preprocessors/preprocessors.html)
 - **CSS-in-JS - runtime, build-time (styled-components, linaria), CSS Modules, понимание различий и концепций изоляции:**
-  - **_Сравнение производительности CSS и CSS-in-JS в реальном мире -_** https://habr.com/ru/companies/ruvds/articles/556164/
-  - **_Скрытая цена CSS-in-JS-библиотек в React-приложениях -_** https://habr.com/ru/companies/ruvds/articles/480358/
-  - **_CSS-In-JS For React: Linaria Vs. Styled Components -_** https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/
+  - **_Обзор CSS-in-JS -_** https://doka.guide/tools/css-in-js/
 
 ### Умение оптимизировать производительность и загрузку страниц:
 

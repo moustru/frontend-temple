@@ -27,9 +27,10 @@
 
 - **Функциональное реактивное программирование:**
   - **_Основы функционального реактивного программирования -_** https://www.youtube.com/watch?v=xPHT91zzAQs&ab_channel=VideoArchiveofDataArt
-- [**Парадигмы программирования**](https://doka.guide/tools/programming-paradigms/?ysclid=lsalbq5tzm349795473)
+- [**Парадигмы программирования**](https://doka.guide/tools/programming-paradigms/)
 - **Знание и понимание архитектурных паттернов:MVVM (Model-View-ViewModel), EDA (event driven architecture), DDD (domain driven design), Microfrontend Architecture:**
   - **_Паттерны MVC, MVP, MVVM -_** https://www.youtube.com/watch?v=HC33Mggec3k&ab_channel=SergeyArkhipovJavaTutorials
+  - **_Чистая архитектура во фронтенде -_** https://bespoyasov.ru/blog/clean-architecture-on-frontend/
   - **_Архитектура Event-Driven приложений -_** https://habr.com/ru/companies/otus/articles/740578/
   - **_Как устроен Domain Driven Design (DDD) -_** https://habr.com/ru/companies/oleg-bunin/articles/551428/
   - **_Microfrontends -_** https://martinfowler.com/articles/micro-frontends.html#SharedComponentLibraries

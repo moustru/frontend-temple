@@ -6,7 +6,6 @@
 
 - **Знание преимуществ и недостатков React/Vue/Angular и понимание того, когда лучше всего применять каждый из них:**
   - **_React или Angular или Vue.js — что выбрать? -_** https://habr.com/ru/articles/476312/
-  - **_Точка зрения на сравнение фреймворков: Angular обречен, с React все хорошо – мы заслуживаем лучшего -_** https://webformyself.com/tochka-zreniya-na-sravnenie-frejmvorkov-angular-obrechen-s-react-vse-xorosho-my-zasluzhivaem-luchshego/
   - **_Angular vs React vs Vue в 2023 году — Как выбрать JavaScript-фреймворк -_** https://skine.ru/articles/619815/
 - **Понимание преимуществ, особенностей, недостатков и сферы применимости TypeScript:**
   - **_TypeScript: худший лучший язык программирования -_** https://habr.com/ru/companies/oleg-bunin/articles/660683/
@@ -21,12 +20,6 @@
 
 ### Опыт разработки и внедрения масштабных проектов с использованием фреймворка или библиотеки:
 
-- **Разработка большого проекта с нуля, закладывание архитектуры:**
-  - **_Архитектура front-end приложений — react, react native, angular. Обзор -_** https://vc.ru/dev/632017-arhitektura-front-end-prilozheniy-react-react-native-angular-obzor
-  - **_Чистая архитектура во фронтенде -_** https://bespoyasov.ru/blog/clean-architecture-on-frontend/
-- **Проектирование и внедрение архитектуры на базе Component Based/DDD:**
-  - **_Как устроен Domain-Driven Design -_** https://habr.com/ru/companies/oleg-bunin/articles/551428/
-  - **_Domain Driven Design на практике -_** https://habr.com/ru/articles/334126/
 - **Опыт оценки реализации крупного проекта, его декомпозиции и реализации в срок:**
   - **_Декомпозиция. Как разобрать огромный проект на понятные сегменты для предварительной оценки -_** https://habr.com/ru/articles/498226/
   - **_8 методов, с которыми ты точно оценишь срок проекта -_** https://proglib.io/p/project-time
@@ -47,12 +40,9 @@
   - **_Реактивность в JavaScript: простой и понятный пример -_** https://habr.com/ru/companies/ruvds/articles/418633/
 - **Организация процесса коммуникации клиентской части приложения с бекендом:**
   - **_выделение DTO слоя:_**
-    - _Шаблон DTO (объект передачи данных) -_ https://for-each.dev/lessons/b/-java-dto-pattern?ysclid=lsoj8idn5q263309048
+    - _Шаблон DTO (объект передачи данных) -_ https://for-each.dev/lessons/b/-java-dto-pattern
   - **_выбор библиотеки коммуникации (axios, Apollo):_**
     - _5 Best Open-Source HTTP Request Libraries for React (2024) -_ https://www.kindacode.com/article/best-open-source-http-request-libraries-for-react/
-  - **_кеширование:_**
-    - _[По полочкам] Кэширование -_ https://habr.com/ru/articles/734660/
-    - _HTTP-кеширование -_ https://developer.mozilla.org/ru/docs/Web/HTTP/Caching
   - **_работа с коллизиями:_**
     - _ConflictJS: Finding and Understanding Conflicts Between
       JavaScript Libraries -_ https://software-lab.org/publications/icse2018.pdf

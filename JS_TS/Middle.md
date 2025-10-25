@@ -40,7 +40,7 @@
 
 ### Знание и применение практик, таких как модульность и использование новых возможностей стандарта ECMAScript next:
 
-- [**Module systems**](https://habr.com/ru/companies/domclick/articles/532084/)
+- [**Module systems**](https://habr.com/ru/articles/501198/)
 - **Отслеживание новых возможностей языка ECMAScript:**
   - **_ECMAScript 2016, 2017, 2018 -_** https://habr.com/ru/company/ruvds/blog/353174/
   - **_ECMAScript 2019 -_** https://habr.com/ru/post/439532/

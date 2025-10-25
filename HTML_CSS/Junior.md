@@ -50,8 +50,8 @@
 - [**Элементы стилизации текста (i, b, strong, em, mark, etc)**](https://abuzov.com/html-tekst/)
 - [**Атрибуты подсказок (alt, title, label)**](https://reforge.ru/blog/stati-seo/vnutrennyaya-optimizavcia/alt-i-title-kartinok)
 - **Как правильно верстать в 2022 году:**
-  - [**_https://habr.com/ru/post/655009/_**](https://habr.com/ru/post/655009/)
-  - [**_https://habr.com/ru/articles/664060/_**](https://habr.com/ru/articles/664060/)
+  - https://habr.com/ru/post/655009/
+  - https://habr.com/ru/articles/664060/
 
 ### Умение создавать простые веб-страницы, которые корректно отображаются в основных браузерах (Chrome, Firefox, Safari, Edge):
 

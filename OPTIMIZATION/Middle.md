@@ -12,7 +12,6 @@
   - **_Анализ производительности с помощью Chrome DevTools -_** https://habr.com/ru/articles/715856/
 - **_Оптимизация вычислений: уменьшение сложности алгоритма, знание способов оптимизации выполнения кода:_**
   - **_13 советов, как сделать код на JavaScript качественнее и быстрее -_** https://education.yandex.ru/journal/13-sovetov-kak-sdelat-kod-na-javascript-kachestvennee-i-bystree
-  - **_Четыре способа оптимизации ПО (Python/Rust) -_** https://habr.com/ru/companies/ruvds/articles/775868/
 - **Применение кеширования для оптимизации выполнения js кода. Выбор способа хранения данных для оптимизации производительности:**
   - **_Кэширование кода для JavaScript-разработчиков на примере Chrome -_** https://tproger.ru/translations/javascript-code-caching-for-devs
 - **Опыт отладки и написания оптимизированного рендеринга:**

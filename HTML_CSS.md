@@ -27,10 +27,10 @@
 - Редко используемые свойства CSS - https://habr.com/ru/companies/usetech/articles/710086/
 - CSS Wrapped 2023 - https://developer.chrome.com/blog/css-wrapped-2023?hl=ru
 - Адаптивный дизайн высоты - https://habr.com/ru/companies/skillfactory/articles/524996/
-- How To Center a Div - https://www.joshwcomeau.com/css/center-a-div/
 - Атрибуты HTML, которыми вы никогда не пользовались - https://habr.com/ru/articles/660381/
 - 11 HTML best practices for login & sign-up forms - https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms
 - CSS :has() Interactive Guide - https://ishadeed.com/article/css-has-guide
+- CSS в 2025: какие фишки теперь доступны? - https://habr.com/ru/companies/ruvds/articles/877114/
 
 ### Книги, спецификации, факультатив
 

@@ -13,7 +13,6 @@
 - Пишем быстрый и экономный код на JavaScript - https://habr.com/ru/articles/248111/
 - WebPerf Snippets - https://webperf-snippets.nucliweb.net/
 - Приемы для повышения производительности сайта от Google - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru
-- **Рендеринг WEB-страницы: что об этом должен знать front-end разработчик -** https://habr.com/ru/articles/224187/
 - **[Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)**
 
 ### Книги, спецификации, факультатив

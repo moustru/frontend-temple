@@ -74,7 +74,8 @@
 - **Комплексные таблицы/списки (группировка, вложенность, виртуализация, выбор элементов и тд):**
   - **_Эволюция подходов к работе с таблицами во фронтенде -_** https://habr.com/ru/companies/samokat_tech/articles/711202/
 - **Проектирование архитектуры стилей проекта (модульность, дефолты, нормализация/сброс, кастомные переменные, контексты наложения):**
-  - **_Архитектура CSS — структура папок и файлов -_** https://webformyself.com/arxitektura-css-struktura-papok-i-fajlov
+  - **_Кастомный подход для нормализации и сброса стилей (custom-reset.css) -_** https://habr.com/ru/articles/420539/
+  - **_Нормальный сброс -_** https://habr.com/ru/companies/htmlacademy/articles/342052
 - **Проектирование структуры верстки приложения (лэйаут, страницы, компоненты):**
   - **_Компонентный подход в вёрстке: подробный разбор для джунов и сочувствующих -_** https://habr.com/ru/companies/yandex_praktikum/articles/748794/
 - **Темизация (использование медиа запросов, задание базовых тем, использование кастомных тем, хранение информации о теме):**
@@ -90,7 +91,7 @@
 - **Подгрузка необходимого функционала (условные комментарии (if ie), определение типа браузера, ассеты для адаптива):**
   - **_Условные комментарии -_** https://htmlbook.ru/samlayout/internet-explorer/uslovnye-kommentarii
 - **Знание проблемных технологий в верстке (flexbugs/gridbugs/filters):**
-  - **_Flexbugs -_** https://github.com/philipwalton/flexbugs?ysclid=lsad0jma1d539855072
+  - **_Flexbugs -_** https://github.com/philipwalton/flexbugs
   - **_Gridbugs -_** https://github.ink/VladimirHumeniuk/gridbugs-ru
 - **Визуальная регрессия (Скриншоты, снапшоты):**
   - **_Тестирование вёрстки на визуальные регрессии с помощью PhantomCSS -_** https://habr.com/ru/articles/271379/

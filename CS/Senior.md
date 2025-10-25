@@ -7,6 +7,7 @@
 - **Виды бинарных деревьев (AVL-деревья, красно-черные деревья):**
   - **_Структуры данных: бинарные деревья. Часть 1 -_** https://habr.com/ru/articles/65617/
   - **_Структуры данных: бинарные деревья. Часть 2: обзор сбалансированных деревьев -_** https://habr.com/ru/articles/66926/
+  - **_Красно-черные деревья: коротко и ясно -_** https://habr.com/ru/articles/330644
 - [**B-деревья**](https://habr.com/ru/companies/otus/articles/459216/)
 - [**Фибоначчиевы кучи**](https://www.programiz.com/dsa/fibonacci-heap)
 - [**Префиксное дерево (Trie)**](https://habr.com/ru/companies/otus/articles/674378/)
